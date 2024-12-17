@@ -33,6 +33,7 @@ public class SpringJpaEcomApplication implements CommandLineRunner {
 		System.out.println(product1);
 	      System.out.println("Product Created");
 		System.out.println("New Update");
+		System.out.println("New Branch code");
 
 		//To See all data comment above code of created product and use bellow code
 		//productService.all().forEach(System.out::println); // Select Query has executed
